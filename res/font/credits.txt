@@ -1,0 +1,10 @@
+/*
+ * This is the font that is used to render all text that you see on
+ * screen, thank u. (It was found going to Handshakes itchio page and
+ * seeing fonts credits)
+ *
+ * Credits:
+ * 04b-30
+ * http://www.04.jp.org/
+ * http://www.dsg4.com/04/extra/bitmap/stuff/04b_30.zip
+ */

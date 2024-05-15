@@ -1,0 +1,26 @@
+WIN_MOVE
+https://opengameart.org/content/won-orchestral-winning-jingle
+
+BACKGROUND_MOVE - Trumpetguy - It's the original.
+youtube.com/watch?v=MUzxewTNSPo
+
+UNDO_MOVE
+https://opengameart.org/content/air-woosh-move
+
+BUTTON_MOVE
+https://freesound.org/people/Dannaye/sounds/427069/
+
+NORMAL_MOVE
+https://freesound.org/people/elynch0901/sounds/464498/
+
+UNSUCCESSFUL_MOVE
+https://freesound.org/people/jimbo555/sounds/630492/
+
+RESTART_MOVE
+https://freesound.org/people/colorsCrimsonTears/sounds/585803/
+
+QUIT_MOVE
+https://freesound.org/people/wyronroberth/sounds/516238/
+
+STARTMOVE
+https://freesound.org/people/wyronroberth/sounds/516239/

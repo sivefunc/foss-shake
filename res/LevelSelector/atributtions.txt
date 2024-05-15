@@ -1,0 +1,6 @@
+// The majority of desgins and colors were 1:1 scale copied from the original game
+// using GIMP.
+// The majority are 32x32, some are bigger like the logo.
+// I think Damaskinto was the graphic designer of the original game
+// https://damaskino.itch.io/
+
