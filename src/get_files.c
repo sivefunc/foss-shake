@@ -41,13 +41,14 @@ int16_t get_files(char *path, char ***files)
     // The list of files will be resized to only accomodate regular files.
     // but initially it will be of lenght lines.
     *files = (char**)calloc(lines, sizeof(char*));
-
+    int16_t path_len = strlen(path);
     for (int16_t line = 0, file = 0; line < lines; file++)
     {
-        file_path = (char *)malloc(sizeof(list_of_files[file] -> d_name));
+        file_path = (char *)malloc(sizeof(char) * (path_len +
+                    strlen(list_of_files[file] -> d_name) + 1));
+
         strcpy(file_path, path);
         strcat(file_path, list_of_files[file] -> d_name);
-
         stat(file_path, &properties); // Get properties of current file
 
         // https://www.man7.org/linux/man-pages/man7/inode.7.html
